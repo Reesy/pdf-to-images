@@ -1,0 +1,27 @@
+{
+  "name": "pdf-to-images",
+  "version": "1.0.0",
+  "description": "Converts a pdf into images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reesy/pdf-to-images.git"
+  },
+  "keywords": [
+    "pdf",
+    "image"
+  ],
+  "author": "James Rees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reesy/pdf-to-images/issues"
+  },
+  "homepage": "https://github.com/Reesy/pdf-to-images#readme",
+  "dependencies": {
+    "pdf-image": "^1.1.0",
+    "pdfinfo": "0.0.3"
+  }
+}
